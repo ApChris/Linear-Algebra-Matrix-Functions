@@ -2,4 +2,4 @@
 
 Compile: make \
 Run: ./main   \
-Clean: make clean  \
+Clean: make clean  
