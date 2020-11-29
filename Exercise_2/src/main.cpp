@@ -34,5 +34,7 @@ int main(int argc, char const *argv[])
     {
         cout << "Result:wrong" << endl;
     }
+
+    delete [] array;
     return 0;
 }
